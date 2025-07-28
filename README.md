@@ -2,7 +2,7 @@
 
 このPythonスクリプトは【Python×コンジョイント分析】OLS回帰で効用値を推定し、ブランド別に可視化するを実装しています。
 
-👉[ipynbファイルはこちら] (https://github.com/iwakazusuwa/ipynb_conjoint)
+👉[ipynbファイルはこちら](https://github.com/iwakazusuwa/ipynb_conjoint)
 
 詳しい使い方や解説は以下の記事をご覧ください。
 
